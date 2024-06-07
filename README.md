@@ -6,3 +6,6 @@ now editing on update-readme branch
 updated locally
 
 udated from github before rebase
+
+update from locally 
+to check conflicts
