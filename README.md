@@ -13,4 +13,8 @@ TO CHECK CONFLICT
 
 udated from develop branch
 
-this is fot updating tag
+this is for updating tag
+
+## Getting Started
+
+To get started with this project, just `clone` this repository.
